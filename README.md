@@ -57,4 +57,6 @@ Looking for bugs and performance issues is the primary goal and is where the maj
 ## Points 
 1. Git flow
 2. Git commit messages
-3. Style
+3. Naming Conventions
+4. Whitespace Rule
+5. Important coding standards
