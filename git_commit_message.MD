@@ -28,7 +28,7 @@ Here is commit message that must be used in every single git commit.
 - [wip]  only when you are working on a feature/fix and it’s not completed but you have to commit in git.
 
 
-#### Only use like prefix then two space then your commit message 
+#### Only use like prefix then one space then your commit message 
 Not acceptable:
 - [config] any configuration files is changed
 - [doc] -if you are updating any documentation files. e.g. README
